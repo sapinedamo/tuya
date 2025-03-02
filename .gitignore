@@ -1,0 +1,43 @@
+# Entorno virtual
+/tuya/
+venv/
+env/
+.venv/
+.env
+
+# Archivos de configuración personal
+.env
+
+# Modelos descargados
+/models/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Directorios de IDE
+.idea/
+.vscode/
+
+# Directorios de distribución y compilación
+dist/
+build/
+*.egg-info/
+
+# Otros archivos temporales
+*.bak
+*.swp
+*.tmp
+.ipynb_checkpoints/
+
+# Archivos de log
+*.log

@@ -1,0 +1,10 @@
+sentence-transformers==3.4.1
+langchain-community==0.3.18
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.6
+langchain-openai==0.3.7
+faiss-cpu==1.10.0
+accelerate==1.4.0
+bitsandbytes==0.45
+fastapi==0.115.11
+uvicorn==0.34
